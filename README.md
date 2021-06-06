@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lolkatz
+- 👋 Hi, I’m lolkatz
 - 👀 I’m interested in web development and hacking
-- 🌱 I’m currently learning network security assesment
+- 🌱 I’m currently learning web security
 - 📫 How to reach me: [0xfil](https://twitter.com/0xfil)
 
 <!---
