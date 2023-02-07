@@ -1,6 +1,7 @@
 - 👋 Hi, I’m lolkatz
 - 👀 I’m interested in web development and hacking
-- 🌱 I’m currently learning web security
+- 🌱 I’m currently learning web hacking
+- My blog: https://lolkatz.github.io/will-hack-for-coffee/
 - 📫 How to reach me: [0xfil](https://twitter.com/0xfil)
 
 <!---
